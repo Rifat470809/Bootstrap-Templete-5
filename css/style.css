@@ -1,0 +1,123 @@
+/*-- hero area start --*/
+
+.header{
+	padding: 35px 0;
+}
+
+.hero-wrapper img{
+	display: block;
+	width: 100%;
+}
+
+/*-- hero area end --*/
+
+/*-- Project area start --*/
+
+.project{
+	margin-top: 30px;
+}
+
+.project-right img{
+	display: block;
+	width: 100%;
+	height: 300px;
+}
+
+.project-left p{
+	margin-left: 80px;
+	margin-top: 50px;
+}
+
+.project-left h4{
+	margin-top: 170px;
+	font-size: 28px;
+}
+
+.project-left h6{
+	margin-left: 20px;
+}
+
+.project-right h3{
+	margin-top: 70px;
+}
+
+.project-right p{
+	margin-left: 20px;
+}
+
+/*-- Project area end --*/
+
+/*--  midel area start --*/
+
+.midel-section{
+	padding: 50px 0;
+}
+
+/*-- midel area end --*/
+
+/*-- Approach area start --*/
+
+.approach{
+	padding: 50px 0;
+}
+
+/*-- Approach area end --*/
+
+/*-- Rectangle area start --*/
+
+.Rectangle{
+	margin-top: 30px;
+}
+
+.Rectangle-left img{
+	display: block;
+	width: 100%;
+	height: 300px;
+}
+
+.Rectangle-right img{
+	display: block;
+	width: 100%;
+	height: 300px;
+}
+
+/*-- Rectangle area end --*/
+
+/*-- footer area start --*/
+
+.footer-wrapper img{
+	display: block;
+	width: 100%;
+	margin-top: 30px;
+}
+
+/*-- footer area end --*/
+
+
+
+/*-- footer-section area start --*/
+
+.footer-section{
+	padding: 30px 0;
+}
+
+.footer-section-left{
+	margin-left: 30px;
+}
+
+/*-- footer-section area end --*/
+
+/*-- button-section area start --*/
+
+.button-section{
+	padding: 90px 0;
+}
+
+.button-section-wrapper a{
+	text-decoration: none;
+	border: 1px solid #333;
+	padding: 6px 15px;
+	color: #161616;
+}
+
+/*-- button-section area end --*/
